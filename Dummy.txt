@@ -17,3 +17,6 @@ scorehero
 iron man
 hulk
 spiderman
+loki
+thor
+sang-chi
